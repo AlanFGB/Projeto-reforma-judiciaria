@@ -39,3 +39,11 @@ projeto_reforma_judiciaria.md: O texto completo da proposta.
 README.md: Esta página de apresentação.
 
 Transformando o Judiciário através da transparência e fiscalização mútua.
+cat <<EOF > README.md
+# Projeto Reforma Judicial
+
+Repositório dedicado à modernização do sistema judiciário, com foco em inteligência investigativa de elite e protocolos de segurança biopsicossocial.
+
+## Estrutura do Projeto
+- **/docs**: Contém os protocolos técnicos e sistemas de análise (SIERT).
+EOF
