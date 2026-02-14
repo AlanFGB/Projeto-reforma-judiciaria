@@ -1,0 +1,30 @@
+cat <<EOF > docs/sistema_analise_investigativa.md
+# Sistema de Investigação de Elite e Revalidação Técnica (SIERT)
+
+Este documento estabelece o protocolo rigoroso para a revalidação de crimes e condenações por meio de análise multicêntrica e investigação de campo especializada.
+
+## 1. Recrutamento e Seleção de Trabalhadores de Elite
+O sistema baseia-se na competência técnica superior através de uma seleção dinâmica dos melhores talentos para cada caso.
+* **Mapeamento de Capacitação:** Identificação de trabalhadores com certificações elevadas.
+* **Convocação por Mérito:** Profissionais com histórico comprovado em casos complexos.
+* **Imparcialidade Blindada:** Operação sem acesso à identidade dos réus originais.
+
+## 2. Fluxo de Amostragem e Análise Multicêntrica
+As amostras seguem uma trajetória de verificação rigorosa para eliminar erros de diagnóstico.
+* **Ponto de Análise 1 (Local Sigiloso):** Laboratórios secretos com especialistas de alta capacitação.
+* **Ponto de Análise 2 (Contraprova e Validação):** Revisão cega em região distinta para garantir imparcialidade.
+* **Pontos de Análise Subsequentes:** Validação de teorias específicas conforme a complexidade.
+
+## 3. Re-investigação no Local e Estudo do Acontecido
+Fase crítica que ocorre no teatro dos acontecimentos para verificação exaustiva.
+* **Verificação de Campo:** Busca de vestígios negligenciados na investigação inicial.
+* **Reconstituição do Acontecimento:** Técnica de "recolocação do ocorrido" para entender a física e lógica do crime.
+* **Identificação de Novas Condenações:** Descoberta de crimes simultâneos ou provas para condenações adicionais.
+* **Estudo de Dinâmica Real:** Cruzamento de depoimentos originais com evidências físicas atuais.
+
+## 4. Consolidação do Relatório Final
+O sistema reúne os resultados técnicos dos pontos sigilosos, as conclusões da equipe de elite no local e o parecer sobre a justiça da condenação ou novas aberturas processuais.
+
+### Conclusão
+O SIERT garante a verdade material através de verificação física e científica constante, assegurando a integridade total da justiça.
+EOF
